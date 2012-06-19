@@ -1,4 +1,4 @@
-BUPextractor
+BUPextractor (under GPL v3 License, if you do not have your own copy, please go to http://www.gnu.org/copyleft/gpl.html)
 https://github.com/qiaozhou/BUP_Extractor
 
 WARNING in no way we can be responsible of a misusage or any loss that could happen during your experience with this tool, there is no warranty and must be use only as an educational purpose.
